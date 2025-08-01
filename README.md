@@ -1,73 +1,48 @@
-<h1 align="center">Hi 👋, I'm Kuldeep Singh</h1>
-<h3 align="center">Backend Developer | Problem Solver | DevOps Curious 🐧</h3>
+<h1 align="center">Hey there, I'm Kuldeep Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h3 align="center">⚡ Backend Engineer | ☁️ DevOps Explorer | 🔐 Bug Slayer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;Java+%7C+Spring+%7C+MySQL+%7C+Linux+%7C+DevOps+Lover;Building+backend+systems+since+coffee+became+fuel" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Profile!;Java+SpringBoot+Enthusiast.;Obsessed+with+Clean+Code+%26+Clean+Logs.;I+ship+features+%26+fix+bugs+with+equal+love." />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Spring Boot microservices, monitoring & performance**
-- 🌱 Learning more about **Linux, CI/CD pipelines, and cloud architecture**
-- 🧠 I believe in solving problems, not just writing code
-- 💬 Ask me about: `Java`, `Spring Boot`, `MySQL`,`Postgres`,`MSSQL` ,`RabbitMQ`, `Prometheus`
-- 📫 Reach me at: **Kuldeep.Singh@rosmertatech.co.in**
-- 🎯 Fun fact: I debug faster when I'm on mute in meetings 😅
+🚀 I’m a software engineer building scalable APIs and backend systems using Java & Spring Boot  
+🌱 Currently learning: Kubernetes | Prometheus | GitHub Actions  
+👨‍💻 Currently working on: Real-time monitoring systems, microservices  
+📫 Reach me at: `kuldeep@example.com`  
+🎯 Motto: *Make it work → Make it right → Make it fast*  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,github,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,hibernate,linux,docker,kubernetes,git,github,jenkins,redis,rabbitmq" />
 </p>
+
+> 💡 I believe in writing resilient systems, keeping logs beautiful, and failing gracefully.
 
 ---
 
-## 📈 GitHub Stats
+## 🧠 Knowledge Base
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kuldeep-R4241&show_icons=true&theme=radical" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kuldeep-R4241&theme=radical" width="47%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kuldeepsingh&theme=dracula&no-frame=true&column=7" />
-</p>
-
----
-
-## 📍 Currently Working On
-
-- 🛠️ Real-time API monitoring with **Prometheus + Grafana**
-- 🔐 API security using **JWT** and **Spring Security**
-- 📡 Messaging queue performance with **RabbitMQ**
-
-
----
-
-## 📬 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kuldeepsingh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kuldeep.singh@rosmertatech.co.in">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Kuldeep-R4241" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+```yaml
+Languages:
+  - Java 💻
+  - SQL 📊
+  - Bash 🖥️
+Frameworks:
+  - Spring Boot ☕
+  - JPA / Hibernate 📦
+DevOps:
+  - Docker 🐳
+  - Jenkins ⚙️
+  - Prometheus + Grafana 📈
+  - Kubernetes ☸️ (learning)
+Databases:
+  - MySQL 🐬
+  - PostgreSQL 🐘
+  - Redis 🧠
